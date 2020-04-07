@@ -46,6 +46,5 @@ def uniqueMorseRepresentations(words):
     
 words = str(input("ENter your word :-"))
 print(uniqueMorseRepresentations(words))
-print("hello my suman 143")
 
 
